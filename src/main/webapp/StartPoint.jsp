@@ -6,13 +6,13 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
+<!DOCTYPE html>
 <head>
     <title>存入session</title>
 </head>
 <body>
-    <a href="store">
-            存入session
-    </a>
+<a href="store">
+    存入session
+</a>
 </body>
 </html>
